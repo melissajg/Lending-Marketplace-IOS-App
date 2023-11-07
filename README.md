@@ -14,17 +14,17 @@ Original App Design Project
 
 ### Description
 
-[Description of your app]
+The LendShark app that manages your borrowing and lending activities and promotes commmunity bonds by encouraging sharing within your neighborhood.
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Description**: Manages users borrowing and lending activities and promotes commmunity bonds by encouraging sharing within your local community.
+- **Category:** Marketplace
+- **Mobile:** Mobile is essential for the instant reporting of borrowed item concerns and communication between lender and borrow.  The camera is used to keep a record of condition of borrowed item.
+- **Story:** People willl build storng bonds and trust within their communities by borrowing and lending out items in good fiath to help their fellow humans.
+- **Market:** Any and every community can benefit form easier and more convient sharing of resources. 
+- **Habit:** People attempting to avoid spendin unnecessarily will seek out the app which can escalate to loaning or trading out the smallest of things.
+- **Scope:** The app is a typical marketplace app but with unique features that makes the motivations and culutre of the app stand out from the rest.
 
 ## Product Spec
 
@@ -84,7 +84,7 @@ Original App Design Project
 
 ## Wireframes
 
-![](https://github.com/melissajg/Lending-Marketplace-IOS-App/blob/main/Wireframes.heic)
+![](https://github.com/melissajg/Lending-Marketplace-IOS-App/blob/main/Wireframes.png)
 
 
 ## Schema 
