@@ -86,9 +86,6 @@ Original App Design Project
 
 ![](https://github.com/melissajg/Lending-Marketplace-IOS-App/blob/main/Wireframes.heic)
 
-### [BONUS] Digital Wireframes & Mockups
-
-### [BONUS] Interactive Prototype
 
 ## Schema 
 
