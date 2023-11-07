@@ -50,8 +50,7 @@ The LendShark app that manages your borrowing and lending activities and promote
 - [ ] Registration Screen
 * User can create a new account
 - [ ] Stream
-* User can view a feed of photos
-* User can double tap a photo to like
+* User can view a feed of post
 - [ ] Creation
 * User can post a new photo to their feed
 - [ ] Search
