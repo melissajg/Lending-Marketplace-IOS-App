@@ -84,8 +84,7 @@ Original App Design Project
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+![](https://github.com/melissajg/Lending-Marketplace-IOS-App/blob/main/Wireframes.heic)
 
 ### [BONUS] Digital Wireframes & Mockups
 
