@@ -45,9 +45,9 @@ The LendShark app that manages your borrowing and lending activities and promote
 
 ### 2. Screen Archetypes
 
-- [ ] Login Screen
+- [x] Login Screen
 * User can login
-- [ ] Registration Screen
+- [x] Registration Screen
 * User can create a new account
 - [ ] Stream
 * User can view a feed of post
@@ -69,9 +69,9 @@ The LendShark app that manages your borrowing and lending activities and promote
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Login Screen
+- [x] Login Screen
 * => Home
-- [ ] Registration Screen
+- [x] Registration Screen
 * => Home
 - [ ] Stream Screen
 * => None, but future version will likely involve navigation to a detailed screen to see comments for each photo.
