@@ -93,8 +93,6 @@ The LendShark app that manages your borrowing and lending activities and promote
 
 ## Schema 
 
-[This section will be completed in Unit 9]
-
 ### Models
 
 [Add table of models]
