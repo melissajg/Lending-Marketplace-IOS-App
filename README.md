@@ -85,6 +85,11 @@ The LendShark app that manages your borrowing and lending activities and promote
 
 ![](https://github.com/melissajg/Lending-Marketplace-IOS-App/blob/main/Wireframes.png)
 
+## Videowalkthrough
+**Week 8**
+![](https://github.com/melissajg/Lending-Marketplace-IOS-App/blob/main/Demo%20-%20Week%208.gif)
+**Week 9**
+![](https://github.com/melissajg/Lending-Marketplace-IOS-App/blob/main/Demo%20-%20Week%209.gif)
 
 ## Schema 
 
