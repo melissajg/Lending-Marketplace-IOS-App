@@ -98,12 +98,7 @@ The LendShark app that manages your borrowing and lending activities and promote
 
 ### Models
 
-[Add table of models]
-
 ### Networking
 
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
 
 
